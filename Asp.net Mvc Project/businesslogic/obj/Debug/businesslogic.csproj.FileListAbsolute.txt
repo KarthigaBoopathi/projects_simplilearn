@@ -1,0 +1,6 @@
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\businesslogic\bin\Debug\businesslogic.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\businesslogic\bin\Debug\businesslogic.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\businesslogic\obj\Debug\businesslogic.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\businesslogic\obj\Debug\businesslogic.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\businesslogic\obj\Debug\businesslogic.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\businesslogic\obj\Debug\businesslogic.pdb

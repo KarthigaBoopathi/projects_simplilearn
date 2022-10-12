@@ -1,0 +1,11 @@
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\bin\Debug\helper.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\bin\Debug\helper.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\obj\Debug\helper.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\obj\Debug\helper.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\bin\Debug\businesslogic.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\bin\Debug\DataAccess.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\bin\Debug\businesslogic.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\bin\Debug\DataAccess.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\helper\obj\Debug\helper.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\bin\Debug\businesslogic.dll
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\bin\Debug\businesslogic.pdb
+C:\Users\Karthiga\source\repos\Asp.net Mvc Project\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
