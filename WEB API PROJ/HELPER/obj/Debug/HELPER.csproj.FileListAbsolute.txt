@@ -1,0 +1,11 @@
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\bin\Debug\HELPER.dll
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\bin\Debug\HELPER.pdb
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\obj\Debug\HELPER.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\obj\Debug\HELPER.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\obj\Debug\HELPER.dll
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\obj\Debug\HELPER.pdb
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\bin\Debug\BAL.dll
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\bin\Debug\DAL.dll
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\bin\Debug\BAL.pdb
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\bin\Debug\DAL.pdb
+C:\Users\Karthiga\source\repos\WEB API PROJ\HELPER\obj\Debug\HELPER.csproj.CopyComplete
